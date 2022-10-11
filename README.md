@@ -21,7 +21,6 @@ Welcome to my Github page! I am Julian and I'm currently studying software devel
 - Exercising 5 days a week
 - keep pushing my limits to the next level.
 
-#### :computer: Programming languages and tools: 
-<p>
+
 	
 
