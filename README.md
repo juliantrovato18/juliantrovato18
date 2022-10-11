@@ -25,8 +25,8 @@ Welcome to my Github page! I am Julian and I'm currently studying software devel
 <p>
 	
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.google.com/search?q=react+logo+png&client=firefox-b-d&sxsrf=ALiCzsYeaenRzWcXHItRs0a6D_LbODnWWQ:1665526406988&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiX0uiumdn6AhXVs5UCHaSSBncQ_AUoAXoECAIQAw&biw=1440&bih=775&dpr=1#imgrc=tKSDKiJnJlsysM"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
